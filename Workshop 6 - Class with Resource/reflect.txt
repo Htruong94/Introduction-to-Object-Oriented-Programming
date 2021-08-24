@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           July 12, 2020
+//==============================================
+// Workshop:       6 - Reflection
+//==============================================
+
+During the coding of both workshop 6 and milestone 1, I have learnt how to use and see the difference between the copy constructor and the copy assignment operator. Such that the copy constructor would create a copy of its data and paste the content into a new resource  while the copy assignment would create a new allocated memory in which would contain a copy of the data and assign the object that called the function the copied memory. The milestone on the other hand taught me how to implement the opposite function in which prohibiting the action of the copy function in which we just place a "= delete" after the function declaration. As we want to minimize the amount of memory used in the program, I have learnt a method that would create enough memory to accommodate the current amount of data being used in which when adding a new resource into an object, I can dynamically change the size of the object to fit another item through copying the content to a temporary object which in turn allow for the change of the size such that all data can fit into the object. This is shown when using operators to add to existing objects with values that exists in another object. 
+
+The difficulty I have faced when coding workshop 6 and milestone 1 is creating an array of pointers to an object as performing dummy codes to see if the action has successfully been implemented towards the array of pointers has been difficult to determine in milestone 1. As I progress through the milestone, I have developed understanding on the walkthrough in which how data is passed so I could see that the movement of data is correct. Otherwise, there has been no difficulty in workshop 6 aside from understanding how copy constructor/ assignment works.
