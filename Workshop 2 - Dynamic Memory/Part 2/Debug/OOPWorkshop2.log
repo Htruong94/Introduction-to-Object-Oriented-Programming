@@ -1,0 +1,3 @@
+﻿  Gift.cpp
+D:\School\OOP244\OOPWorkshop2P2\Gift.h(18,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OOPWorkshop2.vcxproj -> D:\School\OOP244\OOPWorkshop2P2\Debug\OOPWorkshop2.exe

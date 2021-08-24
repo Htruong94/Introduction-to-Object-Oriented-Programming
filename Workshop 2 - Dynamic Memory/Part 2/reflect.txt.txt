@@ -1,0 +1,14 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           June 4, 2020 
+//==============================================
+// Workshop:       2
+// Part:           2 - Reflection
+//==============================================
+
+In this workshop, I have learnt how to overload functions such that having multiple functions of the same name but different parameters could be called depending on the parameters inputted into the function call. I have also learnt how to allocate and deallocate the dynamically allocated arrays and variables in the form of the "name = new type[size]" format for allocation and "delete name" for deallocation and setting the deallocated arrays back to nullptr as reference. Finally, I have learnt how to store the user input into a variable such that I can incorporate that variable to create a dynamically allocated array according to the user input. 
+
+The troubles I have encountered in this workshop was the task to have the m_pattern have the size according to the user input. Such that, I had to place the user's input into an empty string and use a for loop to count the size of the input. Using that count, I was able to use that to input the size to the dynamically allocated string and copy the string to the allocated string. I've also had trouble on the placements of cin.ignore and cin.clear in the code but was solved through having segmented testing so I can see which place requires the use of cin.ignore and cin.clear.
