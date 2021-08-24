@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           May 30, 2020 
+//==============================================
+// Workshop:       1
+// Part:           2 - Reflection
+//==============================================
+
+In this workshop, I have learnt how to transition the knowledge of C and transfer it into C++ meanwhile separating the difference that would make the two languages unique from each other. As such, I was able to separate a large source code into different modules such that there are multiple source codes and header files. This is important to organize the code into different groupings such that the utility functions are separated from the functions that pieces and output data to the user. Header files are also important to give a snapshot of the functions declared in the corresponding source code, as well as containing struct and namespaces that would be used.
+During the second portion of the workshop, I was able to apply what we have learnt in class and create a namespace that would contain constants that would be used throughout the program. I was also able to utilize the standard inputs with cin and cout in the iostream library and format them such that it matches what the workshop requires.
