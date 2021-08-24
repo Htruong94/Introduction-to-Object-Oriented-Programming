@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           July 27, 2020
+//==============================================
+// Milestone 1-6 Reflection
+//==============================================
+
+With the completion of the project, I have accumulated numerous of concepts learnt throughout the 6 milestones. The first milestone was focus on creating friendship classes that allows for one class to access functions within the other class by declaring friendship with the class in the class function declarations. The second milestone gives the classes created in milestone a more tangible implementation as we give a purpose to the menu system with a skeleton parking menu system. The third milestone moves away from the previous classes and creates an abstract class with virtual functions which acts as a base class to future derived classes and the implementation of helper insertion/extraction operator overloads which would also be used in the derived classes. The fourth milestone creates a base class that is derived from the abstract class and builds the general object class and also introduces the concepts of protected member functions that allows for derived classes to access but not alter the data with such functions. The fifth milestone is the creation of the end derived classes which creates two different type objects that are derived from the same class which is stores unique data according to the object type. The sixth milestone is where all milestones are put together to create a functional application which is the Seneca Valet Parking Application. This milestone also introduces the ofstream and ifstream which allows for data manipulation within files such as the .csv file provided.
+
+The main problem during the project was during the first milestone when dealing with the friendship classes and the concept of manipulating data in an array of pointers. As I progress with the milestone, I naturally find how each data is travelled between points which improved my understanding of data manipulations across classes and pointers. This was helpful for later milestones as I would improve my knowledge for each milestone and apply what I learnt to solve new concepts being introduced. As the concepts are being learnt in parallel with the workshops, the milestones help solidify what is learnt throughout the course so in the most parts, the milestones were in general straight forward.
+
+
+
