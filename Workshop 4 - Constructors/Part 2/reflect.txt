@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           June 18, 2020 
+//==============================================
+// Workshop:       4
+// Part:           2 - Reflection
+//==============================================
+
+In this workshop, I have learnt how to use constructors and destructors such that when a class is being created, it would be automatically initialize through the constructor function and deallocate in the end of the code through the destructor function. With what I learnt in past workshops, I have also learnt how to connect these constructors effectively and modify the class afterwards accordingly to what the workshop requires. 
+
+What I've had problem with the workshop was to understand how the constructor and destructor function works in the code. To understand how these functions works, I set up temporary cout commands to see the data within the class to see if the class is properly initializing and see if the destructor has successfully deallocated the name. 
+
+On part 2, we updated the prototype to remove the const in the fight function. We updated this because power value permanently alters during the fight function so to allow permanent change, const must be remove as it causes the values in the class to remain unchanged. Thus, const is remove to allow for values to be altered.

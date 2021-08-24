@@ -1,0 +1,4 @@
+﻿  Saiyan.cpp
+D:\School\OOP244\OOP244Workshop4p2\Saiyan.cpp(92,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\School\OOP244\OOP244Workshop4p2\Saiyan.cpp(95,58): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  OOP244Workshop4.vcxproj -> D:\School\OOP244\OOP244Workshop4p2\Debug\OOP244Workshop4.exe
