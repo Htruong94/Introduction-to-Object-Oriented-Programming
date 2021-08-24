@@ -1,0 +1,13 @@
+	/*int numLoad = 0;
+	numLoad++;
+	if (numLoad == 1) {
+		t_Cargo = new Cargo[numLoad];
+	}
+	t_Cargo[numLoad-1].c_Desc[0] = '\0';
+	t_Cargo[numLoad-1].c_Weight = 0;
+
+
+	for (int i = 0; i < MAX_DESC; i++) {
+		t_Cargo[numLoad-1].c_Desc[i] = car.c_Desc[i];
+	}
+	t_Cargo[numLoad - 1].c_Weight = car.c_Weight;*/
