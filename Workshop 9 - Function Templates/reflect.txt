@@ -1,0 +1,15 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           August 2, 2020
+//==============================================
+// Workshop:       9 - Reflection
+//==============================================
+
+With the workshop is solely focused on the application of function templates, every concept that is applicable with the workshop is only regarding function templates. As provided with a given code, we can deduce what is being called so that a function template can be formed with the parameter given. Using what we have learnt about function templates during lecture, we can see what parameter type is constant between each call with the variable parameter types. Once deduce the non-constant parameters, we can form a function template that would address these parameters such that the reduction of redundancy in function code can be achieved as one function can use the function template to use the parameter type for their function rather than a static type. 
+
+The main problem faced during the workshop was just getting a hand of using function templates which the workshop provided a good practice on implementing the concept to a given code. As this workshop is only one function that deals with function templates, understanding the code helped me understand how to build the function template and provide a correct function to complement the function call in the code. 
+
+Along with this workshop, milestone 6 was also being worked on in parallel. Milestone 6 dealt with the collection of all milestones and create the final application that takes the concept of each milestone and make it functional. As this was just a merging of milestones, the only problem faced was problems that were not addressed in previous milestones so backtracking was needed to previous milestone to make the overall application to be functional.
