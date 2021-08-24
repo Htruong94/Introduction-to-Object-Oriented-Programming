@@ -1,0 +1,19 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           June 27, 2020
+//==============================================
+// Workshop:       5
+// Part:           2 - Reflection
+//==============================================
+
+In workshop 5, I have learnt how to use relation between the two classes (Ship and Engine) and efficiently use them together to store data that are linked between each other. Also, with workshop 2, I took what I have learnt about dynamic memory and implement the changes to a static memory to become a dynamic memory with ease. Finally, I have learnt how to overload operators to allow for operator functions to operate on the data according to its task through a class member and a helper function.
+
+The difficulties I faced in this workshop was figuring out the logic for the operator overloads as at first was intimidating due to the presentation of implementation. After learning how to use the operator overloads through the workshop, I was able to overcome this challenge through coding logically and see that it is much simpler than how it first looks. 
+
+The "explicit" keyword allows for the safe use of an operator or constructor as it specifies that it would only evaluate true if the function is explicit through a bool expression. If this "explicit" keyword is removed, changes can be made through an implicit function which would change the function type. "Explicit" is necessary to not allow for this conversion to occur as it would cast the function rather than converting.
+
+Friend helper functions are declared outside of a class as a global function to allow for the input of a class in the opposite direction. As member operator functions reads from left to right, it allows for the class to be operate with the given operand. When the given operand is to the left and class is given to the right, the class member function cannot resolve this expression as it does not have access to the class as it is not the current object. The friend helper, thus, cannot be a class member function as the task of the function is to take the given parameter and convert it into an expression that would allow for the class to be properly operated.
+
