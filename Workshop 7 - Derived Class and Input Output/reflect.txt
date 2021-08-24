@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           July 19, 2020
+//==============================================
+// Workshop:       7 - Reflection
+//==============================================
+
+With the completion of both workshop 7, which highlights the derive classes and custom input and output operators, and milestone 2, which strengthens what we have learn so far as well as implementation of friendship between classes, there are concepts I have learnt during the process as well as improve my understanding on the implementation of concepts. In workshop 7, I have learnt how to create custom input and output operators that would allow me to avoid using hard cin and cout where possible through the process of using the ostream and istream within the function to create custom inputs and outputs that functions the same as cin and cout. This can be further spread through helper functions that allows for smoother coding in the main code as the operator would push it to our custom input and output functions to have a better reading and writing process when manipulating or displaying the data provided. I have also learnt how to implement class inheritance which allows a class to access functions of the base function depending on their permission which the workshop worked upon to understand how data is handle between the derived class and the base class. Milestone 2 on the other hand was an extension of milestone 1 which shows how the code we have written works when handled through a class that has declared friendship with the milestone 1 class. It was more straight forward in concepts as there was no new concept being taught but rather shows an understanding of what I have learnt throughout the course. 
+
+The main difficulty I have faced during this period of time was the inheritance concept in which using the custom input and output on the derived class was not producing the desired results. By progressing through the lab and using tracing methods to track the movement of data between the base class and derived class, I was able to improve my understanding on how data is flowed between the two classes and allowed me to produce the desired results with less trouble than when I first came upon the task. Milestone 2 on the other hand was more straightforward so there were no real issues with it and I was able to progress through the milestone without any trouble.
