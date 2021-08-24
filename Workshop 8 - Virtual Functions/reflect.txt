@@ -1,0 +1,19 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NAA
+// Date:           July 26, 2020
+//==============================================
+// Workshop:       8 - Reflection
+//==============================================
+
+As workshop 8 primary focuses on the use of virtual functions, the completion of this workshop solidified my understanding on how derived classes of a base class utilizes the virtual functions and overrides these functions with their own. As such, the derived classes can utilize these virtual functions through dynamic dispatch which would allow for the execution of the code that is based on the dynamic typing of what is being called such as the difference between the Engineer class typing and the Doctor class typing. The virtual class would postpone the binding until the type of the derived class is inserted into compilation. 
+
+The importance of having a virtual, empty-body destructor that has no statement is that it would allow for the closure of the class when the life-time of the class has ended for all derived classes. As there is no need of de-allocation of memory needed for the derived classes, one virtual empty destructor is sufficient in closing the virtual and derived class and is necessary as without one would cause the classes at the end of run time to not have a way to close.
+
+In the Employee module, there is only one overload operator that streams the display to the virtual display function of employee. This is sufficient for all derived classes as this would then call for the dynamic typing of what is given and run the appropriate display function from the derived classes. Having an overload operator for each class therefore is not necessary for this reason.
+ 
+The problems I have faced while working on this workshop is mostly the understanding of how dynamic typing works and how the virtual functions uses these typing to call the appropriate derived classes. With the completion of the workshop, my understanding had improved and which eased the problem. As the workshop was primary focus on virtual classes, there was no other problems as everything else is refinements of past concepts.
+
+Along with workshop 8, milestone 3, 4 and 5 were completed which primary focuses on abstract base classes in milestone 3 which refines the concept of building abstract base classes which uses the given derived classes. By following the instruction and understanding what the derived class calls for, building the abstract class did not cause much problems as it was straight forward. Milestone 4 was the creation of a base class which is not abstract and is also a derived class of the ReadWritable class in milestone 3 which introduce of multi-level hierarchy. This is also more straight forward as understanding the derived class from milestone 3 allowed me to find a way on how to handle creating a derived class. Milestone 5 is the building of the end level derived class in the hierarchy which takes the functions of the base classes and obtain and store data in individual objects. This also did not cause problems as it was more refinement of concepts learned from the workshops.
